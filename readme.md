@@ -1,0 +1,1 @@
+Error reporter project that aims at showing a visual warning when an error occurs on a XHR call
